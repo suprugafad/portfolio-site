@@ -14,17 +14,17 @@
 
 .page-header {
     position: absolute;
-    top: 4%;
-    right: 2%;
+    margin-top: -8%;
+    margin-left: 63.5%;
     font-family: "Arial Black", sans-serif;
     font-size: 1.9vw;
     word-spacing: 2.5vw;
 }
 
 .emoji{
-    position: absolute;
-    top: 14%;
-    left: 30%;
+    position: relative;
+    top:-37vw;
+    left: 30vw;
     width: 12.5%;
     height: auto;
 }
